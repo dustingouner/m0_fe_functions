@@ -41,7 +41,7 @@ makeFreshPesto();
 function average(num1, num2) {
   var sum = num1 + num2;
   var avg = sum / 2;
-  console.log(`The average is: ${average}.`);
+  console.log(`The average is: ${avg}.`);
 }
 
 average(25,35);
